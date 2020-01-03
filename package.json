@@ -1,0 +1,21 @@
+{
+  "name": "mahendrabagul-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "mahendrabagul-resume": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mahendra bagul resume"
+  ],
+  "author": "Mahendra Bagul (bagulm123@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.0"
+  }
+}

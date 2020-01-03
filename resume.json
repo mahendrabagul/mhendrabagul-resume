@@ -1,0 +1,56 @@
+{
+  "Education 📚": [
+    "Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded  2010 - 2013",
+    "Government Polytechnic, Nashik, 2007 - 2010 ",
+    "Mahatma Fule Vidyalaya, Malwadi, Tal-Deola (Nashik), 1997 - 2007"
+  ],
+  "Past Experience 🧪": [
+    "Senior Software Engineer at Infracloud Technologies - https://www.infracloud.io/, 2019 - Present, 4m",
+    "Specialist Programmer at Infosys - https://www.infosys.com/ - 2017 - 2019, 2yr1m",
+    "Associate Tech Lead at Zycus - https://www.zycus.com/, 2015 - 2017, 2yr8m",
+    "Software Engineer - I at Neova Solutions - https://www.neovasolutions.com/, 2013 - 2015, 1yr2m"
+  ],
+  "Tech Stack 💻": [
+    "Golang, RoR, Kubernetes, Docker, Helm, Crossplane, Linux",
+    "Java, Spring Boot, Hibernate, JHipster, Spring Social Integrations",
+    "JavaScript (ES5, ES6, ES7), Typescript, ExpressJs, NodeJs, SailsJs, LoopBackJs",
+    "AWS, GCP, Azure, Heroku, PCF, Digital Ocean, Auth0",
+    "React, Redux, Redux Saga, Vue.js, Angular 2+",
+    "Jest, Junit, Mockito, PACT(Consumer Driver Testing), BDD, Wiremock, Cucumber",
+    "Elastic Search, Solr, MongoDB Search",
+    "HTML5, CSS3, SASS, SCSS, Bootstrap 4, Material UI",
+    "Oracle Identity Platforms, Axway, Apigee, Graphana, Retrofit, InfluxDB, Telegraf, WRK",
+    "MicroServices, Google Dialog Flow, Amazon Alexa, Oauth2",
+    "CircleCI, Travis CI, Github Actions, Github Packages, Bamboo, Jenkins, CI/CD Pipeline",
+    "MySql, IBM DB2, Oracle 11g, Derby, H2, Sqlite, Postgresql",
+    "Cassandra, CouchDB, MongoDB, DynamoDB, Redis",
+    "Active MQ, SQS, SNS, Redis MQ, S3, EC2, AWS CodePipeline",
+    "Git, SVN, Github, Bitbucket, Gitlab"
+  ],
+  "Licenses and Certifications ✌": [
+    "Go: The Complete Developer's Guide (Golang) - https://www.udemy.com/certificate/UC-C5TPUHQC/",
+    "Kubernetes for the Absolute Beginners - Hands-on - https://www.udemy.com/certificate/UC-IAMIYMOX/",
+    "Prize in Secure Code Warrior Tournament - Secure Code Warrior - https://www.linkedin.com/company/secure-code-warrior/",
+    "M101J:MongoDB for Java Developers - https://www.linkedin.com/company/mongodbinc/",
+    "M101JS:MongoDB for Node.js Developers - https://www.linkedin.com/company/mongodbinc/",
+    "Oracle Certified Professional, Java SE 6 Programmer - https://www.linkedin.com/company/oracle/",
+    "IBM DB2 Student Associate - https://www.linkedin.com/company/ibm/"
+  ],
+  "Projects 🛠": [
+    "Github Repos - https://github.com/mahendrabagul",
+    "Bitbucket Repos - https://bitbucket.org/mahendrabagul",
+    "Telstra TV And Google Home Integration",
+    "A lot more, but NDA :)"
+  ],
+  "Open Source Contributions 🛠": [
+    "Added Support for Crossplane in Gitlab managed Apps - https://gitlab.com/gitlab-org/gitlab/commit/8b1637296b286a5c46e0d8fdf6da42a43a7c9986",
+    "Contributed to Botkube - https://github.com/infracloudio/botkube/commit/75f77e70520da788d08081694ed0c637e1a0eab6"
+  ],
+  "Contact 🤙": [
+    "https://twitter.com/bagulm123",
+    "https://www.linkedin.com/in/bagulmahendra/",
+    "https://github.com/mahendrabagul",
+    "bagulm123@gmail.com",
+    "+91 8484947814"
+  ]
+}
